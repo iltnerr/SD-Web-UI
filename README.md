@@ -4,8 +4,8 @@ Currently using the [Segmind SSD-1B model](https://huggingface.co/segmind/SSD-1B
 
 ## Previews from a mobile phone
 
-### Web UI 
-![web-ui](examples/web-ui.jpg)
+#### Web UI 
+<img src="examples/web-ui.jpg" width="50%">
 
-### Gallery Preview
-![gallery](examples/gallery.jpg
+#### Gallery Preview
+<img src="examples/gallery.jpg" width="50%">
