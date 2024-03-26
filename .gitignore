@@ -1,0 +1,7 @@
+.vscode/
+tmp/*
+*/__pycache__/
+utils/creds.py
+checkpoints/
+static/output/*
+venv/
