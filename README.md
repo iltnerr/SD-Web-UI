@@ -4,10 +4,15 @@ Currently using the [Segmind SSD-1B model](https://huggingface.co/segmind/SSD-1B
 
 ## Previews from a mobile phone
 
-#### Web UI 
+#### Web UI
+
+##### Provide positive and negative prompt to generate an image.
 <img src="examples/web-ui.jpg" width="50%">
 
-#### Gallery Preview
+#### Gallery
+
+##### Review last 200 generations.
 <img src="examples/gallery.jpg" width="50%">
 
+##### Select a thumbnail for closer investigation.
 <img src="examples/gallery-select-image.jpg" width="50%">
