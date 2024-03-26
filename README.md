@@ -1,6 +1,7 @@
 # Minimal SD Web UI
 
-Currently using the [Segmind SSD-1B model](https://huggingface.co/segmind/SSD-1B), but can be adapted to use any model easily.
+Serves as an interface for mobile devices to run and review generations of sd models using a machine (with an appropriate gpu) as a server on the local network.
+Currently using the [Segmind SSD-1B model](https://huggingface.co/segmind/SSD-1B), but can be adapted to use any model.
 
 ## Previews from a mobile phone
 
